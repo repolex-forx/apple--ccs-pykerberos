@@ -1,0 +1,11 @@
+{
+  "org": "apple",
+  "repo": "ccs-pykerberos",
+  "versions": [
+    {
+      "commit": "32ff1211fc1866ab33bbfbcf27d5e522bf0bb593",
+      "tag": "",
+      "parsed_at": "2026-11-06T03:34:51.782632+00:00"
+    }
+  ]
+}
