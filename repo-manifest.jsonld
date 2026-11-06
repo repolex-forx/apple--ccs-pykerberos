@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/apple/ccs-pykerberos/commit/32ff1211fc1866ab33bbfbcf27d5e522bf0bb593",
       "git:hexsha": "32ff1211fc1866ab33bbfbcf27d5e522bf0bb593",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/apple/ccs-pykerberos/commit/2d8fdf1f37f063807699a297e4d37218af7d0c27",
