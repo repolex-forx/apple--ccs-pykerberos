@@ -36,9 +36,15 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 .
 ├── aggregate
 │   ├── ast
+│   │   ├── 1c7e726be4d48ba24e60fbf9c31e0b08aec19e19
+│   │   │   └── chunk-001.nq.gz
 │   │   └── 32ff1211fc1866ab33bbfbcf27d5e522bf0bb593
 │   │       └── chunk-001.nq.gz
+│   ├── lsp
+│   │   └── 1c7e726be4d48ba24e60fbf9c31e0b08aec19e19.nq.gz
 │   └── repolex
+│       ├── 1c7e726be4d48ba24e60fbf9c31e0b08aec19e19
+│       │   └── chunk-001.nq.gz
 │       └── 32ff1211fc1866ab33bbfbcf27d5e522bf0bb593
 │           └── chunk-001.nq.gz
 ├── blob
@@ -62,12 +68,14 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   ├── 83c1b721f1dee6e6e33680e0a544510e683c2dbb.nq.gz
 │   ├── 8bc0c4f6a0552ff1635874127120327722547b2b.nq.gz
 │   ├── 935bfec190e71706b704aeefd227d0e4bf2e50fe.nq.gz
+│   ├── 9782a7e80547ea15768f19bd01734cbdbc616ebe.nq.gz
 │   ├── 9a0dfa7f78a4f17d04e3d1bfe54a02e6c2ff48b0.nq.gz
 │   ├── 9fbd9224cc1af081d56b52e840ec6ea82d396a3a.nq.gz
 │   ├── a37e16adb445fd4a26d3ce86b749de386b3d32f1.nq.gz
 │   ├── a46d695ce9b2887dece4742665adc0f83c701de6.nq.gz
 │   ├── c558234e43cea6768d2b56599509640aecce1fd6.nq.gz
 │   ├── c82a5e4390166dcc2bd903b69d2f17fed0a9b974.nq.gz
+│   ├── ce8f3c5cf23009f7ab458c9a492c861f5712323c.nq.gz
 │   ├── d4f53a6bcfe05e611929e885704509e9deec3431.nq.gz
 │   ├── d645695673349e3947e8e5ae42332d0ac3164cd7.nq.gz
 │   ├── e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz
@@ -77,7 +85,10 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   └── branch.nq.gz
 ├── commit
 │   └── commit.nq.gz
+├── dep
+│   └── 1c7e726be4d48ba24e60fbf9c31e0b08aec19e19.nq.gz
 ├── filetree
+│   ├── 1c7e726be4d48ba24e60fbf9c31e0b08aec19e19.nq.gz
 │   └── 32ff1211fc1866ab33bbfbcf27d5e522bf0bb593.nq.gz
 ├── issue
 │   └── issue.nq.gz
@@ -86,7 +97,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 └── tag
     └── tag.nq.gz
 
-13 directories, 39 files
+17 directories, 46 files
 ```
 
 | Directory | What it contains |
@@ -107,4 +118,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [apple/ccs-pykerberos](https://github.com/apple/ccs-pykerberos)
 
 ---
-*Parsed on 2026-11-06 by [repolex](https://repolex.ai)*
+*Parsed on 2026-11-21 by [repolex](https://repolex.ai)*
